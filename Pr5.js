@@ -20,7 +20,7 @@ const age = 16
 if(age > 19){
     console.log('환영합니다.');
 }
-else if(age === 16){
+else if(age ===  16){
     console.log('졸업 축하합니다.');
 }
 else {
